@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Cybersecurity Studies
 
 Pequenas ferramentas de rede em Python, feitas com a biblioteca padrão (`socket`), para estudar TCP e HTTP.
@@ -36,4 +35,3 @@ python3 client.py
 ## Aviso
 
 Use o scanner apenas em máquinas suas ou com autorização explícita. Escanear redes de terceiros sem permissão pode ser considerado crime.
-EOF
